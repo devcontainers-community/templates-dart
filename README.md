@@ -21,5 +21,5 @@ project. It has since migrated here! ☄️
 <!-- prettier-ignore-start -->
 [microsoft/vscode-dev-containers]: https://github.com/microsoft/vscode-dev-containers#readme
 [Dart programming language | Dart]: https://dart.dev/
-[the dart feature]: https://devcontainers-community.github.io/features/dart.html
+[the dart feature]: https://github.com/devcontainers-community/features-dart-sdk
 <!-- prettier-ignore-end -->
